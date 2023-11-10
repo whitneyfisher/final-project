@@ -2,38 +2,38 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Breakout
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A game in which the goal is to break all of the bricks at the top using a ball controlled by a paddle. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+My game will be created using Pygame. It will include three basic elements, the ball, which moves on its own, the paddle, which is controlled by the player, and the bricks at the top that are meant to be broken. When the player breaks all of the bricks, the game is won, but if the ball falls below the paddle, a life is lost. There will be three lives given to the player each round. When all three lives are lost, the player will be prompted to play again. There may also be powerups or obstacles added to the game as added elements, or levels that increase in diffculty when the player breaks all the bricks.  
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
-TODO, if applicable
+N/A
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable
+N/A
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+Creating the three main features of the game: the bricks, the paddle, and the ball.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+Creating multiple levels that increase in difficulty after each level is completed (adding obstacles), and adding lives.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+Implementing elements like changing the speed at the ball at different times, creating power-ups to aid the player in winning, inlcuding a high score, including a winning and losing screen.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+I will first download Pygame and figure out its basic features and practice using it. I will research how to create games using Pygame, and I begin to try to use these new skills to figure out the more basic features of the game. I will learn how to code the graphics, and once I have a basic idea down of how to use Pygame, I will start by coding the three basic features, which are the ball, bricks, and paddle. I will have to figure out how to create graphics for these and how to get the player to control the paddle. Once the basic game is coded, I could then move on to adding in some of the more diffcult elements to code, such as obstacles, powerups, etc.
