@@ -1,0 +1,30 @@
+# Status Report
+
+#### Your name
+
+Whitney Fisher
+
+#### Your section leader's name
+
+Amirhossein Baghghadam (Section 006)
+
+#### Project title
+Breakout 
+
+TODO
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+So far I have downloaded and untilized pygame to get out some basic features of the game. I will be using Pygame in order to create my final porject, and a majority of my time so far working on the final project has been researching and learning how to use Pygame to create a game using pyhton, and how to use my current python knowledge and apply it to what Pygame offers. I have been working out some logistics with my game, such as creating the graphics and figuring out how to add them and how to get the ball to move.
+
+#### What have you not done for your project yet?
+
+I still have quite a bit of progress still to make. I have to figure out how to get the object to move, and I would like to continue figure out how to do some things such as new levels creating extra elements in the game (like powerups, obstacles, etc). I still have to finish the basics of the game though, like finishing up the player actually ocntrolling the paddle to to hit the ball.  
+
+#### What problems, if any, have you encountered?
+
+I have not been encountering too many problems so far as a lot of my progress so far has been learning how to use pygame, but I have had a little bit of trouble figuring out the grpahics of the game. 
