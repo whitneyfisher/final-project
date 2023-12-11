@@ -9,4 +9,4 @@ However, after completing my project I feel that I have learned so much more abo
 
 My favorite part of the project was seeing it all come together. I loved finally figuring out how to do things like have the ball collide against the bricks, running the code and seeing the class and new feature be added to the game. 
 
-Ideally, however, I would have finished my orignal idea of creating my unique features like the different levels and obstacles. 
+Ideally, however, I would have finished my orignal idea of creating my unique features like the different levels and obstacles. Looking back at my proposal file, however, I was able to complete the features of the game that I knew I would be able to complete.
