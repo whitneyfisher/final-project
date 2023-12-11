@@ -1,3 +1,5 @@
+# this is testing out a breakout game
+
 import pygame
 from pygame.locals import *
 pygame.init()
