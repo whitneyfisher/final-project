@@ -1,4 +1,4 @@
-# final-project
+# Breakout
 
 
 This final project was creating a Breakout game using python. To complete this project I used Pygame. My initial goals for this project was to create a breakout game that consisted of many unique features, like power-ups, obstacles, and different levels, but some of these were not able to be completed. 
