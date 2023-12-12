@@ -7,6 +7,6 @@ There was a learning curve involved when trying to use Pygame for the first time
 
 However, after completing my project I feel that I have learned so much more about python that I have not known before, even to the simpliest things like creating the game window, or creating a bunch of different classes and seeing them being implementing into the game.
 
-My favorite part of the project was seeing it all come together. I loved finally figuring out how to do things like have the ball collide against the bricks, running the code and seeing the class and new feature be added to the game. 
+My favorite part of the project was seeing it all come together. I loved finally figuring out how to do things like have the ball collide against the bricks, running the code and seeing the class and new feature be added to the game. Another one of my favorite parts was adding the sound elements, which I had some diffuclty with when I was trying to add a game over sound. 
 
-Ideally, however, I would have finished my orignal idea of creating my unique features like the different levels and obstacles. Looking back at my proposal file, however, I was able to complete the features of the game that I knew I would be able to complete.
+Ideally, however, I would have finished my orignal idea of creating my unique features like the different levels and obstacles. I also really wanted to get a seperate start up screen, but was having diffuculy figuring out how to get rid of the bricks. Looking back at my proposal file, however, I was able to complete the features of the game that I knew I would be able to complete, and some extra like adding sound.
